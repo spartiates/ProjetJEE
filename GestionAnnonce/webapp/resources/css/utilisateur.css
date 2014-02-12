@@ -1,0 +1,21 @@
+
+#idInscription{
+	
+	margin-left: 54%;
+	margin-top: 	5%;
+	color: yellow;
+	position: absolute;
+	
+	
+}
+
+ #tableInscription td{
+	
+	color : red;
+	align : center;
+	
+	border-radius: 20px;
+	
+}
+
+

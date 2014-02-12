@@ -1,0 +1,44 @@
+div#footer {
+	margin-top: 700px;
+}
+
+div#idRecherche {
+	margin-left: 55%;
+	margin-top: 5%;
+	margin-bottom: 50%;
+	margin-right: 50%;
+	position: absolute;
+}
+
+div#boutonReche {
+	position: fixed;
+	margin-left: 30%;
+	margin-top: 10%;
+	position: absolute;
+}
+
+div#idImage {
+	margin-left: 0%;
+	margin-top: 5%;
+	position: absolute;
+
+}
+
+div#authentification {
+	margin-top: -316px;
+	margin-left: 101%;
+	position: absolute;
+}
+
+
+
+.customTitleBar>.ui-panel-titlebar {
+	font-family: verdana;
+	font-weight: bold;
+	
+	background-color: olive;
+}
+.classButton{
+	
+	margin-left: 47px;
+}
